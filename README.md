@@ -1,4 +1,5 @@
-## 表抽出技術の比較
+## 表抽出技術の比較  
+下記ライブラリを使用してPDFからテキストを抽出後、GPT4oでmarkdown形式に変換する。  
 - llama parse
 - Firecrawl
 - Unstructured
